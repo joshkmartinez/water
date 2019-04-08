@@ -1,0 +1,12 @@
+{
+  "name": "Water CSS",
+  "alias": [
+    "water",
+    "waterCSS"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
